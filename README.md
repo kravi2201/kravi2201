@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kravi2201
+- 👋 Hi, I’m Avinash Kumar
 - 👀 I’m interested in Programming Languages and learning new stuffs.
 - 🌱 I’m currently learning OOPs, MySQL, Cloud Computing and Data Structure.
 - 📫 How to reach me: LinkedIn, Instagram
